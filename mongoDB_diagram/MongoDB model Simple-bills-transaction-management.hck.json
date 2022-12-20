@@ -702,14 +702,14 @@
     "dbVendor": "MongoDB",
     "appTarget": "MONGODB",
     "creationTS": "2022-12-19T19:55:30.544Z",
-    "GUID": "0f0f2994-0a89-4d87-ae08-14e2517051c3",
+    "GUID": "5081c084-3473-49f4-818d-39a67a262667",
     "isLineageEnabled": false,
     "hackoladeMeta": {
         "validationErrors": {
             "modelName": false
         }
     },
-    "lastModifTS": "2022-12-19T22:03:05.495Z",
+    "lastModifTS": "2022-12-20T18:59:17.676Z",
     "persistenceSchemaVersion": "6",
     "isCreatedByPlugin": true,
     "pluginInformation": {
