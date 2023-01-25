@@ -590,7 +590,7 @@
     ],
     "buckets": [
         {
-            "name": "Transactio-management",
+            "name": "Transactio Management",
             "type": "bucket",
             "collectionIds": [
                 "aac19612-9a0b-48e6-9451-cd562e3823c1",
@@ -606,7 +606,11 @@
             "show": true,
             "isActivated": true,
             "GUID": "1669e821-5b10-4941-a1b4-cffb2f710543",
-            "hackoladeMeta": {}
+            "hackoladeMeta": {
+                "validationErrors": {
+                    "name": true
+                }
+            }
         },
         {
             "name": "Planning",
@@ -632,7 +636,7 @@
     "users": [],
     "diagramViews": [],
     "idToNameHashTable": {
-        "1669e821-5b10-4941-a1b4-cffb2f710543": "Transactio-management",
+        "1669e821-5b10-4941-a1b4-cffb2f710543": "Transactio Management",
         "aac19612-9a0b-48e6-9451-cd562e3823c1": "transaction",
         "660ab9c2-2727-4c0c-9b67-74432067a810": "_id",
         "7104f281-4132-4a13-8d5a-b56676dbc67f": "user",
@@ -709,14 +713,14 @@
             "modelName": false
         }
     },
-    "lastModifTS": "2022-12-20T18:59:17.676Z",
+    "lastModifTS": "2023-01-24T21:50:20.442Z",
     "persistenceSchemaVersion": "6",
     "isCreatedByPlugin": true,
     "pluginInformation": {
         "pluginEngineVersion": "1.0.0"
     },
     "applicationInformation": {
-        "version": "6.7.3"
+        "version": "6.8.4"
     },
     "settings": {
         "centralPane": {
